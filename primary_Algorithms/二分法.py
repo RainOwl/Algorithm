@@ -36,3 +36,11 @@ data_set = list(range(10000000))
 res = binary_search(data_set, 896)
 print(res)
 
+# def linear_search(data_set, value):
+#     for i in data_set:
+#         if data_set[i] == value:
+#             return i
+#     return
+#
+# l_res = linear_search(data_set,749)
+# print(l_res)
